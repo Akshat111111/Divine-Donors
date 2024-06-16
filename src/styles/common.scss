@@ -1,0 +1,59 @@
+
+.align-center {
+    align-self: center;
+}
+
+.center-align {
+    text-align: center !important;
+}
+
+.pd-10 {
+    padding: 10px !important;
+}
+
+.pt-25 {
+    padding-top: 25px !important;
+}
+
+.p-tb-20 {
+    padding: 20px 0px !important;
+}
+
+.m-tb-25 {
+    margin: 25px 0px !important;
+}
+
+.m-0 {
+    margin: 0px !important;
+}
+
+.position-relative {
+    position: relative !important;
+}
+
+.position-absolute {
+    position: absolute !important;
+}
+
+.h-100 {
+    min-height: 100vh;
+}
+
+.ab {
+    position: relative;
+    top: 200px;
+    @media (max-width: 600px) {
+        position: relative;
+        top: 0px;
+    }
+}
+
+.ft {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    @media (max-width: 600px) {
+        position: relative;
+        top: 60px;
+    }
+} 
