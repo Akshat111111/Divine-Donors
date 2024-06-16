@@ -8,11 +8,15 @@ Schools often lack access to spiritual wisdom literature, which is vital for ins
 
 Divine Donors is a crowdfunding platform designed to bridge this gap by enabling alumni to find their schools and sponsor spiritual literature as a gesture of gratitude. This platform facilitates the creation and sharing of campaigns, making it easy to raise funds and spread awareness.
 
+![Divine Donors Overview](public/dd1.png)
+
 ## Mission
 
 Our mission is to ensure that every school library is enriched with spiritual wisdom literature. We aim to foster a deeper understanding and appreciation of native culture and heritage among students.
 
 ## Effects
+
+![Divine Donors Effects](public/dd2.png)
 
 - Increased availability of spiritual wisdom literature in school libraries.
 - Enhanced understanding and appreciation of native culture among students.
@@ -24,6 +28,8 @@ Our mission is to ensure that every school library is enriched with spiritual wi
 
 - **User-Friendly Interface**: Designed for both fundraisers and supporters, allowing easy campaign creation and contribution.
 - **Campaign Features**: Includes tools for campaign creation, payment processing, social sharing, and communication.
+
+![Platform Structure](public/dd3.png)
 
 ### Payment Processing
 
@@ -49,5 +55,7 @@ Our mission is to ensure that every school library is enriched with spiritual wi
 - **AI Integration**: Leverage AI for personalized campaign recommendations and fraud detection.
 - **Advanced Algorithms**: Add advanced algorithms for recommendation purposes.
 - **Blockchain Migration**: Migrate the Next.js application to a blockchain application using Solidity.
+
+![Future Work](public/dd4.png)
 
 Feel free to explore the code, contribute, or provide feedback to help us improve Divine Donors.
